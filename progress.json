@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T05:07:33.017Z",
+  "generated_at": "2026-11-09T05:17:18.083Z",
   "items": {
     "problem:83": {
       "kind": "problem",
@@ -203,6 +203,17 @@
       "path": "math/0016-eigendecomposition-and-svd",
       "first_solved_at": "2026-10-29T05:07:32.382Z",
       "last_pushed_at": "2026-10-29T05:07:32.382Z"
+    },
+    "math:50": {
+      "kind": "math",
+      "id": "50",
+      "title": "Positive Definite Matrices and Quadratic Forms",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/50",
+      "path": "math/0050-positive-definite-matrices-and-quadratic-forms",
+      "first_solved_at": "2026-11-09T05:17:17.019Z",
+      "last_pushed_at": "2026-11-09T05:17:17.019Z"
     }
   }
 }
